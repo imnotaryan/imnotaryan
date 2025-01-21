@@ -20,5 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imnotaryan&show_icons=true&locale=en" alt="imnotaryan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnotaryan&" alt="imnotaryan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imnotaryan&" alt="imnotaryan" /></p> -->
 
